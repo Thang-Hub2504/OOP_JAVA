@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class Main3 {
+	public static void main(String[] args) {
+		Scanner canh1 = new Scanner(System.in);
+			float canh1 = canh1.nextFl();
+		Scanner canh2 = new Scanner(System.in);
+			float canh2 = canh2.nextFl();
+		Scanner canh3 = new Scanner(System.in);
+			float canh2 = canh2.nextFl();
+	}
+}

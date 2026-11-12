@@ -1,0 +1,10 @@
+import java.util.Scanner;
+module Thang1{
+	public class Main{
+		public static void main(String[] args) {
+				Scanner sc = new Scanner(System.in);
+				int songuyen = input.nextInt();
+				System.out.println("So nguyen lon nhat vua nhap la: " + songuyen);
+		}
+	}
+}

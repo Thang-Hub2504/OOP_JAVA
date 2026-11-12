@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class Main {
+	public static void main(String[] args) {
+			Scanner sc = new Scanner(System.in);
+			System.out.println("Nhap so phan tu can nhap ");
+			int sopt = sc.nextInt();
+			
+			int[] arr = new int[n];
+			for(int i=0; i<n; i++) {
+				System.out.println("Nhap so nguyen thu " + [i+1] + ":");
+				arr[i] = sc.nextInt();
+			}
+	}
+}
